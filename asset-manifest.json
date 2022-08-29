@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/gohanshopping/static/css/main.073c9b0a.css",
-    "main.js": "/gohanshopping/static/js/main.f6e729e7.js",
-    "static/js/787.6547c54f.chunk.js": "/gohanshopping/static/js/787.6547c54f.chunk.js",
-    "static/media/logo.svg": "/gohanshopping/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/gohanshopping/static/css/main.730061a3.css",
+    "main.js": "/gohanshopping/static/js/main.8744a975.js",
     "index.html": "/gohanshopping/index.html",
-    "main.073c9b0a.css.map": "/gohanshopping/static/css/main.073c9b0a.css.map",
-    "main.f6e729e7.js.map": "/gohanshopping/static/js/main.f6e729e7.js.map",
-    "787.6547c54f.chunk.js.map": "/gohanshopping/static/js/787.6547c54f.chunk.js.map"
+    "main.730061a3.css.map": "/gohanshopping/static/css/main.730061a3.css.map",
+    "main.8744a975.js.map": "/gohanshopping/static/js/main.8744a975.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f6e729e7.js"
+    "static/css/main.730061a3.css",
+    "static/js/main.8744a975.js"
   ]
 }
