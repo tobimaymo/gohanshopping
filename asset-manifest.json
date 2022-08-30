@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gohanshopping/static/css/main.730061a3.css",
-    "main.js": "/gohanshopping/static/js/main.8744a975.js",
+    "main.css": "/gohanshopping/static/css/main.dd0ad0f6.css",
+    "main.js": "/gohanshopping/static/js/main.06807b06.js",
     "index.html": "/gohanshopping/index.html",
-    "main.730061a3.css.map": "/gohanshopping/static/css/main.730061a3.css.map",
-    "main.8744a975.js.map": "/gohanshopping/static/js/main.8744a975.js.map"
+    "main.dd0ad0f6.css.map": "/gohanshopping/static/css/main.dd0ad0f6.css.map",
+    "main.06807b06.js.map": "/gohanshopping/static/js/main.06807b06.js.map"
   },
   "entrypoints": [
-    "static/css/main.730061a3.css",
-    "static/js/main.8744a975.js"
+    "static/css/main.dd0ad0f6.css",
+    "static/js/main.06807b06.js"
   ]
 }
