@@ -4,15 +4,13 @@ const NavBar = () => {
       <div className="container">
         <header className="w-100 d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom shadow">
                   <a href="/" className="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-                    <img src="./img/logogohan.jpg" className="bi me-2" width="76" height="64"alt="logo"></img>
-                    <span className="fs-4">Gohan Music Shopping</span>
+                    <span className="fs-4">Gohan´s Music Store</span>
                   </a>
-                  <div className='CounterSection'>
-                  <button id="boton-carrito">
-                    <img src="./img/carrito.png" className="bi me-2" width="48" height="48" alt="carrito"></img>
-                    <p id="contadorCarrito">0</p>
-                  </button>
-                  </div>
+                  <ul className="lista">
+                    <li><button className="boton"> BTS </button></li>
+                    <li><button className="boton"> Taylor Swift </button></li>
+                    <li><button className="boton"> En Oferta </button></li>
+                  </ul>
         </header>
     </div>
     );

@@ -1,32 +1,13 @@
-.App {
-    font-family: sans-serif;
-    text-align: center;
-  }
-  
-  .paragraph {
-    color: black;
-  }
-  #contenedor-productos {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 40px;
-}
-.boton-agregar {
+.boton{
     color: black;
     font-size: 18px;
     font-weight: 700;
     padding: 5px;
     border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 5px;
 }
-.boton-agregar:hover {
-    cursor: pointer;
-}
-#contadorCarrito {
-  font-size: 30px
-}
-#boton-carrito {
-  margin: 5px;
-  margin-right: 10px;
-  border: 3px;
-  background-color: white;
+ul.lista li{
+    list-style: none;
+    display: inline;
 }
